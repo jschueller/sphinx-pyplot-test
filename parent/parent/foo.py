@@ -7,6 +7,6 @@ class Foo(object):
         """
         Complicated computation
 
-        Dont even try to understand the [Bar2018]_ paper.
+        Dont even try to understand the paper.
         """
         return self.n + y

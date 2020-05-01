@@ -15,16 +15,11 @@ API
 
 .. currentmodule:: parent
 
-.. autoclass:: Foo
-  :members:
+.. autosummary::
+    :toctree: _generated/
+    :template: classWithPlot.rst_t
 
-Bibliography
-============
-
-.. toctree::
-   :maxdepth: 2
-
-   bibliography
+    Foo
 
 Indices and tables
 ==================
